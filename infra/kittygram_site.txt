@@ -1,0 +1,5 @@
+IP: 84.201.142.83;
+ name_taski: https://happy.servebeer.com/;
+ name_kittygram: https://kittygramm.servebeer.com/;
+ login: VitaliyMigaev;
+ password: Otbali2024!;
